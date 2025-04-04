@@ -1,0 +1,56 @@
+.rbc-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #6666ff !important;
+    color: white !important;
+
+    height: 36px;
+    padding: 10px;
+
+    font-size: 90% !important;
+    font-weight: bold !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.rbc-event,
+.rbc-background-event {
+    z-index: 2;
+    padding: 0px !important;
+    border: none !important;
+    border-radius: 0px !important;
+    background-color: transparent !important;
+}
+
+.rbc-events-container {
+    width: 100%;
+}
+
+.rbc-event-label {
+    display: none !important;
+}
+
+.rbc-event-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 90% !important;
+    font-weight: normal !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.rbc-time-slot {
+    background-color: #eaf3fa;
+    color: #74a4c3;
+}
+
+.rbc-timeslot-group {
+    min-height: 120px !important;
+}
+
+.rbc-allday-cell {
+    display: none;
+}
+  

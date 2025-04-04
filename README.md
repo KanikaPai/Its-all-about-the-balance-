@@ -1,6 +1,3 @@
-# Its-all-about-the-balance-
-An online calendar having monthly and daily view to keep track of upcoming events namely to-do,  and study.
-
 # Scheduler (Month and Week)
 # Author: Kanika Pai
 # Registration: 23BCB0036
